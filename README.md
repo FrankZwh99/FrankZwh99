@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Weihan Frank Zhu @FrankZwh99, from Nanjing China
 - 👀 I’m interested in machine learning and database
-- 🌱 I’m just graduated with a degree of Applied Maths @ University of Notre Dame, and I will move to Pittsburgh to study Artificial Intelligence @ CMU
+- 🌱 I just graduated with a degree of Applied Maths @ University of Notre Dame, and I will move to Pittsburgh to study Artificial Intelligence @ CMU
 - 📫 Appreciate any suggestions at weihanzh@andrew.cmu.edu
 
 <!---
